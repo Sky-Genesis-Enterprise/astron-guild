@@ -20,7 +20,6 @@
 
 | Layer | Stack |
 |-------|-------|
-| **Frontend** | React + TypeScript (TSX) |
 | **Backend API** | Node.js (Express) via `https://api.astron-collection.com` |
 | **Database** | PostgreSQL (hosted on o2switch) |
 | **Discord Bot** | Discord.js (v14+) |
