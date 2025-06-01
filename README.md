@@ -39,7 +39,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/astron-suite/guild-center.git
+git clone https://github.com/Sky-Genesis-Enteprise/astron-guild.git
 cd guild-center
 ````
 
